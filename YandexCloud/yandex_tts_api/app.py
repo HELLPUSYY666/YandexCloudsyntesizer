@@ -4,8 +4,8 @@ import time
 import requests
 from flask import Flask, request, jsonify
 
-token = 't1.9euelZqey57PmZrIm4mbnZWPy5ySm-3rnpWalcaKiouUlcnPmoqXjJiTkcbl9PczD0tH-e8rfzm73fT3cz1IR_nvK385u83n9euelZqZmJKUjJWPx4mbx87JkMyane_8xeuelZqZmJKUjJWPx4mbx87JkMyanQ.3dgm_FfYUF8NxdmDmazKVKgY_MIDR_jwqbsC3CTyLWd1-B5eilSNXJW7E1ykrg8Jl-QwfhP5tnFsSJ4huGz2Dg'
-folder_id = 'b1gljv4klrpj79nu4s95'
+token = 'your token'
+folder_id = 'your id'
 
 root_path = os.path.dirname(__file__)
 target_path = '/tmp/speechkit/'
